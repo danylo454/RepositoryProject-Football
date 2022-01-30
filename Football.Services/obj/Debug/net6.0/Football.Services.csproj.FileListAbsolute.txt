@@ -1,0 +1,15 @@
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\obj\Debug\net6.0\Football.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\obj\Debug\net6.0\Football.Services.AssemblyInfoInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\obj\Debug\net6.0\Football.Services.AssemblyInfo.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\obj\Debug\net6.0\Football.Services.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\bin\Debug\net6.0\Football.Services.deps.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\bin\Debug\net6.0\Football.Services.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\bin\Debug\net6.0\ref\Football.Services.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\bin\Debug\net6.0\Football.Services.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\bin\Debug\net6.0\Football.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\bin\Debug\net6.0\Football.Data.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\obj\Debug\net6.0\Football.Services.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\obj\Debug\net6.0\Football.Services.csproj.CopyComplete
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\obj\Debug\net6.0\Football.Services.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\obj\Debug\net6.0\ref\Football.Services.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Services\obj\Debug\net6.0\Football.Services.pdb

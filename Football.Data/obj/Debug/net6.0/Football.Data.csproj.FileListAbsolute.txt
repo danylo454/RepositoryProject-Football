@@ -1,0 +1,14 @@
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\obj\Debug\net6.0\Football.Data.csproj.AssemblyReference.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\obj\Debug\net6.0\Football.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\obj\Debug\net6.0\Football.Data.AssemblyInfoInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\obj\Debug\net6.0\Football.Data.AssemblyInfo.cs
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\obj\Debug\net6.0\Football.Data.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\bin\Debug\net6.0\Football.Data.deps.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\bin\Debug\net6.0\Football.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\bin\Debug\net6.0\ref\Football.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\bin\Debug\net6.0\Football.Data.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\obj\Debug\net6.0\Football.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\obj\Debug\net6.0\ref\Football.Data.dll
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\obj\Debug\net6.0\Football.Data.pdb
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\bin\Debug\net6.0\Football.Data.runtimeconfig.json
+C:\Users\ilchu\OneDrive\Робочий стіл\Linq to sql\Entity Framework Core Team Football\Football.Data\obj\Debug\net6.0\Football.Data.genruntimeconfig.cache

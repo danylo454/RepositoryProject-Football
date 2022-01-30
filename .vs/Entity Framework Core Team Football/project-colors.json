@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9fca0fdc-839c-4faa-b09f-f0a8b954dd24": {
+      "ProjectGuid": "9fca0fdc-839c-4faa-b09f-f0a8b954dd24",
+      "DisplayName": "Football.Cmd",
+      "ColorIndex": 0
+    },
+    "663035ee-722e-40af-a498-a3b45bc59412": {
+      "ProjectGuid": "663035ee-722e-40af-a498-a3b45bc59412",
+      "DisplayName": "Football.Data",
+      "ColorIndex": 1
+    },
+    "0577c113-a1ed-4ffc-b905-a5ce336fca11": {
+      "ProjectGuid": "0577c113-a1ed-4ffc-b905-a5ce336fca11",
+      "DisplayName": "Football.Services",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}
